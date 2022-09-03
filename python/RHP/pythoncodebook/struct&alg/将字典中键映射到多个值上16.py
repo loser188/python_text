@@ -29,4 +29,5 @@ d.setdefault('a',[]).append(2)
 d.setdefault('b',[]).append(3)
 d.setdefault('b',[]).append(4)
 print(d)
+
 #创建一键多值的字典很容易，但是初始化就很难
