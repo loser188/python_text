@@ -1,0 +1,14 @@
+Python由荷兰数学和计算机科学研究学会的吉多·范罗苏姆于1990年代初设计，作为一门叫做ABC语言的替代
+品。 [1]  Python提供了高效的高级数据结构，还能简单有效地面向对象编程。Python语法和动态类型，以及解释型
+语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言， [2]  随着版本的不断更新和语言新功能的添加，逐渐被用于独立
+的、大型项目的开发。 [3]
+Python解释器易于扩展，可以使用C语言或C++（或者其他可以通过C调用的语言）扩展新的功能和数据类型。
+ [4]  Python也可用于可定制化软件中的扩展程序语言。Python丰富的标准库，提供了适用于各个主要系统平台的源码或机器码。
+163,90389,100411,80438&pageCount=6&showPage=2&re
+gion=7&referType=BD_SEARCH&riskScore=0&sampleId=104423
+_1,104597_1&firstCatalogIsCash=false&rawIntrPage=null&interceptPag
+e=2&policyId=E7QFRLcbpOY3ig6C/WFwg3aN 5yvfaj4HUu2Rv4g5Do=&backendIsIntercept=1&pid=1&b
+id=1&fr=4&act_id=103302&url=https://wenku.baidu.com/view/cd619be9551810a6f5248676.html?fr=aladdin66
+4466&ind=1&refer=https://www.baidu.com/link?url=qkfeEiOfsvfPAWz-Zd5TdzBJycoIM8--LG0kDP-oSqbwM1NkL4WgvH
+bQEcVZIln0ykSoa7n5L6haNq2Daz-ustlP5R-VtISyfTpPBdzJ8ecTWF02iWhXdJ_g2xZqa55O&wd=&eqid=d502d1d5000a63d
+600000005632986e1&t=1663666025303&ie=utf-8////////////
